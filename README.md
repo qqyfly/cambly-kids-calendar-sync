@@ -7,8 +7,12 @@ This extension allows you to sync your Cambly kids reservations to iCal file.
 2. The original forked version does not support cambly kids.
 
 
-## Version History:
+## Version History
 * v1.0: First Working Version.
+
+## License
+* MIT License
 
 ## Thanks
 This project is based on hattapoglu's repo. [Link](https://github.com/hattapoglu/cambly-calendar-sync)
+
